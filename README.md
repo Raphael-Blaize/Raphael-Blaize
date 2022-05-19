@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Raphael-Blaize
 - 👀 I’m interested in Data sceince, Machine Learning and AI
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data science projects
+- 🌱 I’m currently learning Data Science and Applied computing technology
 - 📫 How to reach me ...
 
 <!---
